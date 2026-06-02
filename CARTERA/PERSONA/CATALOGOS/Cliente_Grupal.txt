@@ -1,0 +1,4 @@
+Catalogo: Cliente_Grupal
+Clave Institución	Clave Registro	Descripción		
+0	0	No es Cliente Grupal
+1	1	Si es un Cliente Grupal

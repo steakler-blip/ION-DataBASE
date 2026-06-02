@@ -1,0 +1,8 @@
+Catalogo: Situacion Credito_R04A
+Clave Institución	Clave Registro	Descripción		
+1	1	Etapa 1 Costo Amortizado
+2	2	Etapa 2 Costo Amortizado
+3	3	Etapa 3 Costo Amortizado
+4	4	Etapa 1 Valor Razonable
+5	5	Etapa 2 Valor Razonable
+6	6	Etapa 3 Valor Razonable

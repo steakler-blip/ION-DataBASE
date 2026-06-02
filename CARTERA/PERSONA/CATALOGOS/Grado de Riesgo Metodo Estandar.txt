@@ -1,0 +1,9 @@
+Catalogo: Grado de Riesgo Metodo Estandar
+Clave Institución	Clave Registro	Descripción		
+0	0	No calificado
+1	1	Grado de Riesgo 1
+2	2	Grado de Riesgo 2
+3	3	Grado de Riesgo 3
+4	4	Grado de Riesgo 4
+5	5	Grado de Riesgo 5
+6	6	Grado de Riesgo 6

@@ -1,0 +1,15 @@
+Catalogo: SECTOR_ECONOMICO
+Clave Institución	Clave Registro	Descripción		
+11	11	Gobierno Federal
+12	12	Gobierno de la CDMX
+13	13	Gobierno de los Estados y Municipios
+14	14	Organismos Descentralizados, Empresas Productivas del Estado y Empresas de Participacion Estatal
+22	22	Banca de Desarrollo
+23	23	Banca Multiple
+25	25	Otros Intermediarios Financieros Publicos
+26	26	Otros Intermediarios Financieros Privados
+31	31	Empresas
+32	32	Particulares
+41	41	Entidades Financieras del extranjero
+42	42	Empresas y particulares del extranjero
+51	51	IPAB

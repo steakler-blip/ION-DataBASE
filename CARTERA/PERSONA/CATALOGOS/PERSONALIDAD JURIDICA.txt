@@ -1,0 +1,7 @@
+Catalogo: PERSONALIDAD JURIDICA
+Clave Institución	Clave Registro	Descripción		
+1	1	Persona física
+2	2	Persona Moral
+4	4	Persona física extranjera
+5	5	Persona moral extranjera
+7	7	Fideicomisos

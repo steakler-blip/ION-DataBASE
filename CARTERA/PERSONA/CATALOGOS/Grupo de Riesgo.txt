@@ -1,0 +1,15 @@
+Catalogo: Grupo de Riesgo
+Clave Institución	Clave Registro	Descripción		
+0	0	No aplica
+100	100	Grupo X
+11	11	Grupo I-A
+12	12	Grupo I-B
+20	20	Grupo II
+30	30	Grupo III
+40	40	Grupo IV
+50	50	Grupo V
+60	60	Grupo VI
+71	71	Grupo VII-A
+72	72	Grupo VII-B
+80	80	Grupo VIII
+90	90	Grupo IX

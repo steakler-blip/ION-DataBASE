@@ -1,0 +1,30 @@
+Catalogo: Tipo Cartera
+Clave Institución	Clave Registro	Descripción		
+131	131	Gobierno Estatal
+132	132	Gobierno Municipal
+141	141	Fideicomiso Estatal
+142	142	Fideicomiso Municipal
+210	210	Banca m?ltiple
+220	220	Banca de desarrollo
+230	230	Sociedades financieras de objeto m?ltiple reguladas
+240	240	Sociedades financieras de objeto m?ltiple no reguladas
+250	250	Otras entidades financieras acreditadas que sean otorgantes de cr?dito
+260	260	Otras entidades financieras acreditadas distintas a las otorgantes de cr?dito
+270	270	Fideicomiso entidad financiera
+271	271	Fideicomiso entidad financiera no bancaria
+299	299	Entidades financieras del exterior
+310	310	Persona moral nacional
+320	320	Persona f?sica nacional con actividad empresarial
+330	330	Fideicomiso persona f?sica
+340	340	Fideicomiso persona moral
+410	410	Persona moral extranjera
+420	420	Persona f?sica extranjera con actividad empresarial
+510	510	Gobierno Federal
+520	520	Organismos Descentralizados con ventas menores o iguales a 14 MDU
+530	530	Organismos Descentralizados con ventas mayores a 14 MDU
+590	590	Fideicomiso Empresa Productiva del Estado
+580	580	Empresas Productivas del Estado
+570	570	Partidos Pol?ticos
+560	560	Fideicomiso Organismo Descentralizado con ventas mayores a 14 MDU
+550	550	Fideicomiso Organismo Descentralizado con ventas menores o iguales a 14 MDU
+540	540	Fideicomiso Gobierno Federal

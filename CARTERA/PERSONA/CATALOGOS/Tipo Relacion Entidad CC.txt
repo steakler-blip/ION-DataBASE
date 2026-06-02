@@ -1,0 +1,8 @@
+Catalogo: Tipo Relacion Entidad CC
+Clave Institución	Clave Registro	Descripción		
+1	1	Persona No Relacionada
+10	10	Persona Relacionada No Relevante
+5	5	Persona Relacionada No Relevante
+7	7	Persona Relacionada Relevante
+8	8	Persona No Relacionada
+9	9	Persona Relacionada Relevante

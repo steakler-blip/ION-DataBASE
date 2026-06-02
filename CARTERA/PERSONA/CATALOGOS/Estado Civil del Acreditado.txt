@@ -1,0 +1,5 @@
+Catalogo: Estado Civil del Acreditado
+Clave Institución	Clave Registro	Descripción		
+0	0	No aplica
+1	1	Soltero (a)
+2	2	Casado (a)

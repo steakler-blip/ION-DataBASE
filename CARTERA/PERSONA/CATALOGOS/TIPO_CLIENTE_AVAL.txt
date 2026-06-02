@@ -1,0 +1,9 @@
+Catalogo: TIPO_CLIENTE_AVAL
+Clave Institución	Clave Registro	Descripción		
+1	1	Cliente Comercial
+2	2	Cliente Consumo
+3	3	Cliente Hipotecario
+4	4	Aval
+5	5	Factorado
+6	6	Obligado Solidario
+7	7	Garantia Personal

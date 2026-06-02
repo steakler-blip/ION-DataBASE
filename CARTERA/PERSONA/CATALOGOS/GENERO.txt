@@ -1,0 +1,4 @@
+Catalogo: GENERO
+Clave Institución	Clave Registro	Descripción		
+1	1	Femenino
+2	2	Masculino

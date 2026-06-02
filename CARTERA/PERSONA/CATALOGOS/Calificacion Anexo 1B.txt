@@ -1,0 +1,324 @@
+Catalogo: Calificacion Anexo 1B
+Clave Institución	Clave Registro	Descripción		
+0	No calificado	No calificado
+11111	AAA	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia S&P
+11112	AA+	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia S&P
+11113	AA	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia S&P
+11114	AA-	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia S&P
+11121	Aaa	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia MOODYS
+11122	Aa1	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia MOODYS
+11123	Aa2	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia MOODYS
+11124	Aa3	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia MOODYS
+11131	AAA	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia FITCH
+11132	AA+	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia FITCH
+11133	AA	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia FITCH
+11134	AA-	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia FITCH
+11141	HR AAA (G)	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia HR RATINGS
+11142	HR AA+ (G)	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia HR RATINGS
+11143	HR AA (G)	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia HR RATINGS
+11144	HR AA- (G)	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia HR RATINGS
+11151	aaa	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia A.M. BEST
+11152	aa+	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia A.M. BEST
+11153	aa	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia A.M. BEST
+11154	aa	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia A.M. BEST
+11161	AAA	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+11211	A+	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia S&P
+11212	A	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia S&P
+11213	A-	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia S&P
+11221	A1	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia MOODYS
+11222	A2	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia MOODYS
+11223	A3	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia MOODYS
+11231	A+	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia FITCH
+11232	A	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia FITCH
+11233	A-	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia FITCH
+11241	HR A+ (G)	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia HR RATINGS
+11242	HR A (G)	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia HR RATINGS
+11243	HR A- (G)	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia HR RATINGS
+11311	BBB+	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia S&P
+11312	BBB	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia S&P
+11313	BBB-	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia S&P
+11321	Baa1	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia MOODYS
+11322	Baa2	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia MOODYS
+11323	Baa3	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia MOODYS
+11331	BBB+	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia FITCH
+11332	BBB	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia FITCH
+11333	BBB-	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia FITCH
+11341	HR BBB+ (G)	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia HR RATINGS
+11342	HR BBB (G)	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia HR RATINGS
+11343	HR BBB- (G)	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia HR RATINGS
+11411	BB+	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia S&P
+11412	BB	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia S&P
+11413	BB-	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia S&P
+11421	Ba1	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia MOODYS
+11422	Ba2	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia MOODYS
+11162	AA (alta)	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+11163	AA	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+11164	AA (baja)	Largo plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+11251	a+	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia A.M. BEST
+11252	a	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia A.M. BEST
+11253	a-	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia A.M. BEST
+11261	A (alta)	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia DBRS
+11262	A	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia DBRS
+11263	A (baja)	Largo plazo, Escala Global, Grado de Riesgo 2, Agencia DBRS
+11351	bbb+	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia A.M. BEST
+11352	bbb	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia A.M. BEST
+11353	bbb-	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia A.M. BEST
+11361	BBB (alta	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia DBRS
+11362	BBB	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia DBRS
+11363	BBB (baja)	Largo plazo, Escala Global, Grado de Riesgo 3, Agencia DBRS
+11423	Ba3	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia MOODYS
+11431	BB+	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia FITCH
+11432	BB	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia FITCH
+11433	BB-	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia FITCH
+11441	HR BB+ (G)	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia HR RATINGS
+11442	HR BB (G)	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia HR RATINGS
+11443	HR BB- (G)	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia HR RATINGS
+11511	B+	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia S&P
+11512	B	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia S&P
+11513	B-	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia S&P
+11521	B1	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia MOODYS
+11522	B2	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia MOODYS
+11523	B3	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia MOODYS
+11531	B+	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia FITCH
+11532	B	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia FITCH
+11533	B-	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia FITCH
+11541	HR B+ (G)	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia HR RATINGS
+11542	HR B (G)	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia HR RATINGS
+11543	HR B- (G)	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia HR RATINGS
+11611	CCC	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia S&P
+11612	CC	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia S&P
+11613	C e inferiores	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia S&P
+11621	Caa	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia MOODYS
+11622	Ca	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia MOODYS
+11623	C e inferiores	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia MOODYS
+11631	CCC	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia FITCH
+11632	CC	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia FITCH
+11633	C e inferiores	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia FITCH
+11641	HR C+ (G)	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia HR RATINGS
+11642	HR C (G)	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia HR RATINGS
+11643	HR C- (G) e inferiores	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia HR RATINGS
+12211	mxAAA	Largo plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia S&P
+12221	Aaa.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia MOODYS
+12231	AAA (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia FITCH
+12241	HR AAA	Largo plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia HR RATINGS
+12251	AAA/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia VERUM
+12311	mxAA+	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia S&P
+12312	mxAA	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia S&P
+12313	mxAA-	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia S&P
+12321	Aa1.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia MOODYS
+12322	Aa2.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia MOODYS
+12323	Aa3.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia MOODYS
+12331	AA+ (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia FITCH
+12332	AA (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia FITCH
+12333	AA- (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia FITCH
+12341	HR AA+	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia HR RATINGS
+12342	HR AA	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia HR RATINGS
+12343	HR AA-	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia HR RATINGS
+12351	AA+/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia VERUM
+12352	AA/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia VERUM
+12353	AA-/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia VERUM
+12411	mxA+	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+12412	mxA	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+12413	mxA-	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+12414	mxBBB+	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+12415	mxBBB	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+12416	mxBBB-	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+12421	A1.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia MOODYS
+12422	A2.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia MOODYS
+12423	A3.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia MOODYS
+11451	bb+	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia A.M. BEST
+11452	bb	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia A.M. BEST
+11453	bb-	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia A.M. BEST
+11461	BB (alta)	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia DBRS
+11462	BB	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia DBRS
+11463	BB (baja)	Largo plazo, Escala Global, Grado de Riesgo 4, Agencia DBRS
+11551	b+	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia A.M. BEST
+11552	b	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia A.M. BEST
+11553	b-	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia A.M. BEST
+11561	B (alta)	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia DBRS
+11562	B	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia DBRS
+11563	B (baja)	Largo plazo, Escala Global, Grado de Riesgo 5, Agencia DBRS
+11651	ccc+	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia A.M. BEST
+11652	ccc	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia A.M. BEST
+11653	ccc- E inferiores	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia A.M. BEST
+11661	CCC(alta)	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia DBRS
+11662	CCC	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia DBRS
+11663	CCC (baja) e inferiores	Largo plazo, Escala Global, Grado de Riesgo 6, Agencia DBRS
+12261	aaa.mx	Largo plazo, Escala Local México, Grado de Riesgo 2, Agencia A.M. BEST
+12271	AAA.MX	Largo plazo, Escala Local México, Grado de Riesgo 2, Agencia DBRS
+12361	aa+.mx	Largo plazo, Escala Local México, Grado de Riesgo 3, Agencia A.M. BEST
+12362	aa.mx	Largo plazo, Escala Local México, Grado de Riesgo 3, Agencia A.M. BEST
+12363	aa-.mx	Largo plazo, Escala Local México, Grado de Riesgo 3, Agencia A.M. BEST
+12371	AA.MX (alta)	Largo plazo, Escala Local México, Grado de Riesgo 3, Agencia DBRS
+12372	AA.MX	Largo plazo, Escala Local México, Grado de Riesgo 3, Agencia DBRS
+12373	AA.MX (baja)	Largo plazo, Escala Local México, Grado de Riesgo 3, Agencia DBRS
+12375	BBB.N.MX	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+12376	BBB.N.MX (baja)	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+12424	Baa1.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia MOODYS
+12425	Baa2.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia MOODYS
+12426	Baa3.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia MOODYS
+12431	A+ (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+12432	A (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+12433	A- (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+12434	BBB+ (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+12435	BBB (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+12436	BBB- (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+12441	HR A+	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+12442	HR A	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+12443	HR A-	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+12444	HR BBB+	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+12445	HR BBB	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+12446	HR BBB-	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+12451	A+/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+12452	A/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+12453	A-/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+12454	BBB+/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+12455	BBB/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+12456	BBB-/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+12511	mxBB+	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia S&P
+12512	mxBB	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia S&P
+12513	mxBB-	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia S&P
+12521	Ba1.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia MOODYS
+12522	Ba2.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia MOODYS
+12523	Ba3.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia MOODYS
+12531	BB+ (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia FITCH
+12532	BB (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia FITCH
+12533	BB- (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia FITCH
+12541	HR BB+	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia HR RATINGS
+12542	HR BB	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia HR RATINGS
+12543	HR BB-	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia HR RATINGS
+12551	BB+/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia VERUM
+12552	BB/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia VERUM
+12553	BB-/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia VERUM
+12611	mxB+	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia S&P
+12612	mxB	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia S&P
+12613	mxB-	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia S&P
+12614	mxCCC	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia S&P
+12615	mxCC e inferiores	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia S&P
+12621	B1.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12622	B2.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12623	B3.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12624	Caa1.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12625	Caa2.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12626	Caa3.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12627	Ca.mx	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12628	C.mx e inferiores	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia MOODYS
+12631	B+ (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia FITCH
+12632	B (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia FITCH
+12633	B- (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia FITCH
+12634	CCC (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia FITCH
+12635	CC (mex)	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia FITCH
+12636	C (mex) e inferiores	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia FITCH
+12641	HR B+	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia HR RATINGS
+12642	HR B	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia HR RATINGS
+12643	HR B-	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia HR RATINGS
+12644	HR C+	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia HR RATINGS
+12645	HR C	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia HR RATINGS
+12646	HR C- e inferiores	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia HR RATINGS
+12651	B+/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia VERUM
+12652	B/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia VERUM
+12653	B-/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia VERUM
+12654	C/M	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia VERUM
+12655	D/M e inferiores	Largo plazo, Escala Local Mexico, Grado de Riesgo 6, Agencia VERUM
+21111	A-1+	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia S&P
+21112	A-1	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia S&P
+21121	P-1	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia MOODYS
+21131	F1+	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia FITCH
+21132	F1	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia FITCH
+21141	HR+1 (G)	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia HR RATINGS
+21142	HR1 (G)	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia HR RATINGS
+21211	A-2	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia S&P
+21221	P-2	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia MOODYS
+21231	F2	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia FITCH
+21241	HR2 (G)	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia HR RATINGS
+21311	A-3	Corto plazo, Escala Global, Grado de Riesgo 3, Agencia S&P
+21321	P-3	Corto plazo, Escala Global, Grado de Riesgo 3, Agencia MOODYS
+21331	F3	Corto plazo, Escala Global, Grado de Riesgo 3, Agencia FITCH
+21341	HR3 (G)	Corto plazo, Escala Global, Grado de Riesgo 3, Agencia HR RATINGS
+21411	B	Corto plazo, Escala Global, Grado de Riesgo 4, Agencia S&P
+21431	B	Corto plazo, Escala Global, Grado de Riesgo 4, Agencia FITCH
+21441	HR4 (G)	Corto plazo, Escala Global, Grado de Riesgo 4, Agencia HR RATINGS
+21511	C	Corto plazo, Escala Global, Grado de Riesgo 5, Agencia S&P
+21521	NP	Corto plazo, Escala Global, Grado de Riesgo 5, Agencia MOODYS
+21531	C	Corto plazo, Escala Global, Grado de Riesgo 5, Agencia FITCH
+21541	HR5 (G)	Corto plazo, Escala Global, Grado de Riesgo 5, Agencia HR RATINGS
+22111	mxA-1+	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia S&P
+22112	mxA-1	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia S&P
+22121	MX-1	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia MOODYS
+22131	F1+(mex)	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia FITCH
+22132	F1 (mex)	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia FITCH
+22141	HR+1	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia HR RATINGS
+22142	HR1	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia HR RATINGS
+22151	1+/M	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia VERUM
+22152	1/M	Corto plazo, Escala Local Mexico, Grado de Riesgo 1, Agencia VERUM
+22211	mxA-2	Corto plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia S&P
+22221	MX-2	Corto plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia MOODYS
+22231	F2 (mex)	Corto plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia FITCH
+22241	HR2	Corto plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia HR RATINGS
+22251	2/M	Corto plazo, Escala Local Mexico, Grado de Riesgo 2, Agencia VERUM
+22311	mxA-3	Corto plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia S&P
+22321	MX-3	Corto plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia MOODYS
+22331	F3 (mex)	Corto plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia FITCH
+22341	HR3	Corto plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia HR RATINGS
+22351	3/M	Corto plazo, Escala Local Mexico, Grado de Riesgo 3, Agencia VERUM
+22411	mxB	Corto plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia S&P
+22431	B (mex)	Corto plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia FITCH
+22441	HR4	Corto plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia HR RATINGS
+22451	4/M	Corto plazo, Escala Local Mexico, Grado de Riesgo 4, Agencia VERUM
+22511	mxC e inferiores	Corto plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia S&P
+22521	MX-4 e inferiores	Corto plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia MOODYS
+22531	C (mex) e inferiores	Corto plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia FITCH
+22541	HR5 e inferiores	Corto plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia HR RATINGS
+22551	D/M e inferiores	Corto plazo, Escala Local Mexico, Grado de Riesgo 5, Agencia VERUM
+12461	a+.mx	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia A.M. BEST
+12462	a.mx	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia A.M. BEST
+12463	a-.mx	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia A.M. BEST
+12464	bbb+.mx	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia A.M. BEST
+12465	bbb.mx	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia A.M. BEST
+12466	bbb-.mx	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia A.M. BEST
+12471	A.N.MX (alta)	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+12472	A.N.MX	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+12473	A.N.MX (baja)	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+12474	BBB.N.MX (alta)	Largo plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+12561	bb+.mx	Largo plazo, Escala Local México, Grado de Riesgo 5, Agencia A.M. BEST
+12562	bb.mx	Largo plazo, Escala Local México, Grado de Riesgo 5, Agencia A.M. BEST
+12563	bb-.mx	Largo plazo, Escala Local México, Grado de Riesgo 5, Agencia A.M. BEST
+12571	BB.N.MX(alta)	Largo plazo, Escala Local México, Grado de Riesgo 5, Agencia DBRS
+12572	BB.N.MX	Largo plazo, Escala Local México, Grado de Riesgo 5, Agencia DBRS
+12573	BB.N.MX (baja)	Largo plazo, Escala Local México, Grado de Riesgo 5, Agencia DBRS
+12661	b+.mx	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia A.M. BEST
+12662	b.mx	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia A.M. BEST
+12663	b-.mx	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia A.M. BEST
+12664	ccc+.mx	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia A.M. BEST
+12665	ccc.mx	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia A.M. BEST
+12666	ccc-.mx e inferiores	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia A.M. BEST
+12671	B.N.MX (alta)	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia DBRS
+12672	B.N.MX	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia DBRS
+12673	B.N.MX (baja)	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia DBRS
+12674	CCC.N.MX (alta)	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia DBRS
+12675	CCC.N.MX	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia DBRS
+12676	CCC.N.MX (baja) e inferiores	Largo plazo, Escala Local México, Grado de Riesgo 6, Agencia DBRS
+21151	AMB-1+	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia A.M. BEST
+21152	AMB-1	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia A.M. BEST
+21161	R-1 (alta)	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+21162	R-1 (media)	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+21163	R- (baja)	Corto plazo, Escala Global, Grado de Riesgo 1, Agencia DBRS
+21251	AMB-2	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia A.M. BEST
+21261	R-2 (alta)	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia DBRS
+21262	R-2 (media)	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia DBRS
+21263	R-2 (baja)	Corto plazo, Escala Global, Grado de Riesgo 2, Agencia DBRS
+21351	AMB-3	Corto plazo, Escala Global, Grado de Riesgo 3, Agencia A.M. BEST
+21361	R-3	Corto plazo, Escala Global, Grado de Riesgo 3, Agencia DBRS
+21451	AMB-4	Corto plazo, Escala Global, Grado de Riesgo 4, Agencia A.M. BEST
+21461	R-4	Corto plazo, Escala Global, Grado de Riesgo 4, Agencia DBRS
+21551	e inferiores	Corto plazo, Escala Global, Grado de Riesgo 5, Agencia A.M. BEST
+21561	R-5 e inferiores	Corto plazo, Escala Global, Grado de Riesgo 5, Agencia DBRS
+22161	R-1.N (alta)	Corto plazo, Escala Local México, Grado de Riesgo 1, Agencia DBRS
+22162	R-1.N (media)	Corto plazo, Escala Local México, Grado de Riesgo 1, Agencia DBRS
+22163	R-1.N (baja)	Corto plazo, Escala Local México, Grado de Riesgo 1, Agencia DBRS
+22261	R-2.N (alta)	Corto plazo, Escala Local México, Grado de Riesgo 2, Agencia DBRS
+22262	R-2.N (media)	Corto plazo, Escala Local México, Grado de Riesgo 2, Agencia DBRS
+22263	R-2.N (baja)	Corto plazo, Escala Local México, Grado de Riesgo 2, Agencia DBRS
+22361	R-3.N	Corto plazo, Escala Local México, Grado de Riesgo 3, Agencia DBRS
+22461	R-4.N	Corto plazo, Escala Local México, Grado de Riesgo 4, Agencia DBRS
+22561	R-5.N e inferiores	Corto plazo, Escala Local México, Grado de Riesgo 5, Agencia DBRS

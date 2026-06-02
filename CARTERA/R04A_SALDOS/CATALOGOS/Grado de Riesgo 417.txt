@@ -1,0 +1,12 @@
+Catalogo: Grado de Riesgo 417
+Clave Institución	Clave Registro	Descripción		
+A1	A1	Riesgo A-1
+A2	A2	Riesgo A-2
+B1	B1	Riesgo B-1
+B2	B2	Riesgo B-2
+B3	B3	Riesgo B-3
+C1	C1	Riesgo C-1
+C2	C2	Riesgo C-2
+D	D	Riesgo D
+E	E	Riesgo E
+MI	MI	Piso MI

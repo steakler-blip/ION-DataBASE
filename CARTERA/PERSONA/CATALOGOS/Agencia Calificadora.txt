@@ -1,0 +1,8 @@
+Catalogo: Agencia Calificadora
+Clave Institución	Clave Registro	Descripción		
+0	0	No aplica
+025003	025003	Fitch Mexico, S.A. de C.V.
+025006	025006	Standard & Poors, S.A. de C.V.
+025014	025014	HR Ratings de Mexico, S.A. de C.V.
+025015	025015	Moodys de Mexico, S.A. de C.V.
+025016	025016	Verum Calificadora de Valores, S.A.P.I. de C.V.

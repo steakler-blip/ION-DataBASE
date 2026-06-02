@@ -1,0 +1,5 @@
+Catalogo: Tabla de Adeudo
+Clave Institución	Clave Registro	Descripción		
+0	0	No aplica
+1	1	Corto plazo
+2	2	Largo plazo

@@ -1,0 +1,4 @@
+Catalogo: Reservas al 5
+Clave Institución	Clave Registro	Descripción		
+1	1	SI
+2	2	NO

@@ -1,0 +1,4 @@
+Catalogo: Credito Reportado a la SIC
+Clave Institución	Clave Registro	Descripción		
+700	700	Se reporto el credito a la SIC
+750	750	No se reporto el credito a la SIC

@@ -1,0 +1,8 @@
+Catalogo: Sector Laboral
+Clave Institución	Clave Registro	Descripción		
+0	0	No aplica
+1	1	Sector publico estatal
+2	2	Sector publico municipal
+3	3	Sector publico federal
+4	4	Sector privado
+5	5	No asalariado

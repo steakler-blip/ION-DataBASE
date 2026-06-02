@@ -1,0 +1,617 @@
+Catalogo: ACTIVIDAD_ECONOMICA
+Clave Institución	Clave Registro	Descripción		
+11111	11111	Cultivo de soya
+11112	11112	Cultivo de semillas oleaginosas, excepto soya
+11113	11113	Cultivo de leguminosas
+11114	11114	Cultivo de trigo
+11115	11115	Cultivo de maiz
+11116	11116	Cultivo de arroz
+11119	11119	Cultivo de otros cereales
+11121	11121	Cultivo de hortalizas
+11131	11131	Cultivo de naranja
+11132	11132	Cultivo de otros citricos
+11133	11133	Cultivo de frutales no citricos y de nueces
+11141	11141	Cultivo de productos alimenticios en invernaderos y otras estructuras agricolas protegidas
+11142	11142	Floricultura, y otros cultivos de productos no alimenticios en invernaderos y otras estructuras agricolas protegidas
+11191	11191	Cultivo de tabaco
+11192	11192	Cultivo de algodon
+11193	11193	Cultivo de caña de azucar
+11194	11194	Cultivo de alfalfa y pastos
+11199	11199	Otros cultivos
+11211	11211	Explotacion de bovinos para la produccion de carne
+11212	11212	Explotacion de bovinos para la produccion de leche
+11213	11213	Explotacion de bovinos sin especializacion y para otros propositos
+11221	11221	Explotacion de porcinos
+11231	11231	Explotacion de gallinas para la produccion de huevo
+11232	11232	Explotacion de pollos para la produccion de carne
+11233	11233	Explotacion de guajolotes o pavos
+11234	11234	Produccion de aves en incubadora
+11239	11239	Explotacion de otras aves para produccion de carne y huevo
+11241	11241	Explotacion de ovinos
+11242	11242	Explotacion de caprinos
+11251	11251	Acuicultura
+11291	11291	Apicultura
+11292	11292	Explotacion de equidos
+11293	11293	Cunicultura y explotacion de animales con pelaje fino
+11299	11299	Explotacion de otros animales
+11311	11311	Silvicultura
+11321	11321	Viveros forestales y recoleccion de productos forestales
+11331	11331	Tala de arboles
+11411	11411	Pesca
+11421	11421	Caza y captura
+11511	11511	Servicios relacionados con la agricultura
+11521	11521	Servicios relacionados con la cria y explotacion de animales
+11531	11531	Servicios relacionados con el aprovechamiento forestal
+21111	21111	Extraccion de petroleo y gas
+21211	21211	Mineria de carbon mineral
+21221	21221	Mineria de hierro
+21222	21222	Mineria de oro y plata
+21223	21223	Mineria de cobre, plomo y zinc
+21229	21229	Mineria de otros minerales metalicos
+21231	21231	Mineria de piedra caliza, marmol y otras piedras dimensionadas
+21232	21232	Mineria de arena, grava, tezontle, tepetate, arcillas y de otros minerales refractarios
+21239	21239	Mineria de otros minerales no metalicos
+21311	21311	Servicios relacionados con la mineria
+22111	22111	Generacion de energia electrica
+22112	22112	Transmision, distribucion y comercializacion de energia electrica
+22121	22121	Suministro de gas natural por ductos al consumidor final
+22131	22131	Captacion, tratamiento y suministro de agua
+23611	23611	Edificacion residencial
+23621	23621	Edificacion de naves y plantas industriales
+23622	23622	Edificacion de inmuebles comerciales y de servicios
+23711	23711	Construccion de obras para el tratamiento, distribucion y suministro de agua, drenaje y riego
+23712	23712	Construccion de obras para petroleo y gas
+23713	23713	Construccion de obras de generacion y conduccion de energia electrica y de obras para telecomunicaciones
+23721	23721	Division de terrenos y construccion de obras de urbanizacion
+23731	23731	Construccion de vias de comunicacion
+23799	23799	Otras construcciones de ingenieria civil
+23811	23811	Trabajos de cimentaciones
+23812	23812	Montaje de estructuras prefabricadas
+23813	23813	Trabajos de albañileria
+23819	23819	Otros trabajos en exteriores
+23821	23821	Instalaciones electricas en construcciones
+23822	23822	Instalaciones hidrosanitarias, de gas, sistemas centrales de aire acondicionado y calefaccion
+23829	23829	Otras instalaciones y equipamiento en construcciones
+23831	23831	Colocacion de muros falsos, aislamiento y enyesado
+23832	23832	Trabajos de pintura y otros cubrimientos de paredes
+23833	23833	Colocacion de pisos flexibles y de madera
+23834	23834	Colocacion de pisos ceramicos y azulejos
+23835	23835	Realizacion de trabajos de carpinteria en el lugar de la construccion
+23839	23839	Otros trabajos de acabados en edificaciones
+23891	23891	Preparacion de terrenos para la construccion
+23899	23899	Otros trabajos especializados para la construccion
+31111	31111	Elaboracion de alimentos para animales
+31121	31121	Beneficio del arroz, elaboracion de productos de molineria, y de malta
+31122	31122	Elaboracion de almidones, aceites y grasas vegetales comestibles
+31123	31123	Elaboracion de cereales para el desayuno
+31131	31131	Elaboracion de azucares
+31134	31134	Elaboracion de dulces, chicles y productos de confiteria que no sean de chocolate
+31135	31135	Elaboracion de chocolate y productos de chocolate
+31141	31141	Congelacion de frutas, verduras, guisos y otros alimentos preparados
+31142	31142	Conservacion de frutas, verduras, guisos y otros alimentos preparados por procesos distintos a la congelacion
+31151	31151	Elaboracion de leche y derivados lacteos
+31152	31152	Elaboracion de helados y paletas
+31161	31161	Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles
+31171	31171	Preparacion y envasado de pescados y mariscos
+31181	31181	Elaboracion de pan y otros productos de panaderia
+31182	31182	Elaboracion de galletas y pastas para sopa
+31183	31183	Elaboracion de tortillas de maiz y molienda de nixtamal
+31191	31191	Elaboracion de botanas
+31192	31192	Industrias del cafe y del te
+31193	31193	Elaboracion de concentrados, polvos, jarabes y esencias de sabor para bebidas
+31194	31194	Elaboracion de condimentos y aderezos
+31199	31199	Elaboracion de otros alimentos
+31211	31211	Elaboracion de refrescos, hielo y otras bebidas no alcoholicas, y purificacion y embotellado de agua
+31212	31212	Elaboracion de cerveza
+31213	31213	Elaboracion de bebidas alcoholicas a base de uva y bebidas fermentadas, excepto cerveza
+31214	31214	Elaboracion de bebidas destiladas, excepto de uva
+31221	31221	Beneficio del tabaco
+31222	31222	Elaboracion de productos de tabaco
+31311	31311	Preparacion e hilado de fibras textiles, y fabricacion de hilos
+31321	31321	Fabricacion de telas anchas de tejido de trama
+31322	31322	Fabricacion de telas angostas de tejido de trama y pasamaneria
+31323	31323	Fabricacion de telas no tejidas (comprimidas)
+31324	31324	Fabricacion de telas de tejido de punto
+31331	31331	Acabado de productos textiles
+31332	31332	Fabricacion de telas recubiertas
+31411	31411	Fabricacion de alfombras y tapetes
+31412	31412	Confeccion de cortinas, blancos y similares
+31491	31491	Confeccion de costales y productos de textiles recubiertos y de materiales sucedaneos
+31499	31499	Fabricacion de otros productos textiles no clasificados en otra parte
+31511	31511	Fabricacion de calcetines y medias de tejido de punto
+31519	31519	Fabricacion de otras prendas de vestir de tejido de punto
+31521	31521	Confeccion de prendas de vestir de cuero, piel y materiales sucedaneos
+31522	31522	Confeccion de prendas de vestir de materiales textiles
+31599	31599	Confeccion de accesorios de vestir y otras prendas de vestir no clasificados en otra parte
+31611	31611	Curtido y acabado de cuero y piel
+31621	31621	Fabricacion de calzado
+31699	31699	Fabricacion de otros productos de cuero, piel y materiales sucedaneos
+32111	32111	Aserrado y conservacion de la madera
+32121	32121	Fabricacion de laminados y aglutinados de madera
+32191	32191	Fabricacion de productos de madera para la construccion
+32192	32192	Fabricacion de productos para embalaje y envases de madera
+32199	32199	Fabricacion de otros productos de madera y de materiales trenzables, excepto palma
+32211	32211	Fabricacion de pulpa
+32212	32212	Fabricacion de papel
+32213	32213	Fabricacion de carton
+32221	32221	Fabricacion de envases de carton
+32222	32222	Fabricacion de bolsas de papel y productos celulosicos recubiertos y tratados
+32223	32223	Fabricacion de productos de papeleria
+32229	32229	Fabricacion de otros productos de carton y papel
+32311	32311	Impresion
+32312	32312	Industrias conexas a la impresion
+32411	32411	Refinacion de petroleo
+32412	32412	Fabricacion de productos de asfalto
+32419	32419	Fabricacion de otros productos derivados del petroleo refinado y del carbon mineral
+32511	32511	Fabricacion de petroquimicos basicos del gas natural y del petroleo refinado
+32512	32512	Fabricacion de gases industriales
+32513	32513	Fabricacion de pigmentos y colorantes sinteticos
+32518	32518	Fabricacion de otros productos quimicos basicos inorganicos
+32519	32519	Fabricacion de otros productos quimicos basicos organicos
+32521	32521	Fabricacion de resinas y hules sinteticos
+32522	32522	Fabricacion de fibras quimicas
+32531	32531	Fabricacion de fertilizantes
+32532	32532	Fabricacion de pesticidas y otros agroquimicos, excepto fertilizantes
+32541	32541	Fabricacion de productos farmaceuticos
+32551	32551	Fabricacion de pinturas y recubrimientos
+32552	32552	Fabricacion de adhesivos
+32561	32561	Fabricacion de jabones, limpiadores y dentifricos
+32562	32562	Fabricacion de cosmeticos, perfumes y otras preparaciones de tocador
+32591	32591	Fabricacion de tintas para impresion
+32592	32592	Fabricacion de explosivos
+32599	32599	Fabricacion de otros productos quimicos
+32611	32611	Fabricacion de bolsas y peliculas de plastico flexible
+32612	32612	Fabricacion de tuberia y conexiones, y tubos para embalaje
+32613	32613	Fabricacion de laminados de plastico rigido
+32614	32614	Fabricacion de espumas y productos de poliestireno
+32615	32615	Fabricacion de espumas y productos de uretano
+32616	32616	Fabricacion de botellas de plastico
+32619	32619	Fabricacion de otros productos de plastico
+32621	32621	Fabricacion y revitalizacion de llantas
+32622	32622	Fabricacion de bandas y mangueras de hule y de plastico
+32629	32629	Fabricacion de otros productos de hule
+32711	32711	Fabricacion de articulos de alfareria, porcelana, loza y muebles de baño
+32712	32712	Fabricacion de productos a base de arcilla para la construccion
+32721	32721	Fabricacion de vidrio y productos de vidrio
+32731	32731	Fabricacion de cemento y productos a base de cemento en plantas integradas
+32732	32732	Fabricacion de concreto
+32733	32733	Fabricacion de tubos y bloques de cemento y concreto
+32739	32739	Fabricacion de otros productos de cemento y concreto
+32741	32741	Fabricacion de cal
+32742	32742	Fabricacion de yeso y productos de yeso
+32791	32791	Fabricacion de productos abrasivos
+32799	32799	Fabricacion de otros productos a base de minerales no metalicos
+33111	33111	Industria basica del hierro y del acero
+33121	33121	Fabricacion de tubos y postes de hierro y acero
+33122	33122	Fabricacion de otros productos de hierro y acero
+33131	33131	Industria basica del aluminio
+33141	33141	Fundicion y refinacion de cobre, metales preciosos y de otros metales no ferrosos
+33142	33142	Laminacion secundaria de cobre
+33149	33149	Laminacion secundaria de otros metales no ferrosos
+33151	33151	Moldeo por fundicion de piezas de hierro y acero
+33152	33152	Moldeo por fundicion de piezas metalicas no ferrosas
+33211	33211	Fabricacion de productos metalicos forjados y troquelados
+33221	33221	Fabricacion de herramientas de mano sin motor y utensilios de cocina metalicos
+33231	33231	Fabricacion de estructuras metalicas
+33232	33232	Fabricacion de productos de herreria
+33241	33241	Fabricacion de calderas industriales
+33242	33242	Fabricacion de tanques metalicos de calibre grueso
+33243	33243	Fabricacion de envases metalicos de calibre ligero
+33251	33251	Fabricacion de herrajes y cerraduras
+33261	33261	Fabricacion de alambre, productos de alambre y resortes
+33271	33271	Maquinado de piezas para maquinaria y equipo en general
+33272	33272	Fabricacion de tornillos, tuercas, remaches y similares
+33281	33281	Recubrimientos y terminados metalicos
+33291	33291	Fabricacion de valvulas metalicas
+33299	33299	Fabricacion de otros productos metalicos
+33311	33311	Fabricacion de maquinaria y equipo agropecuario
+33312	33312	Fabricacion de maquinaria y equipo para la construccion
+33313	33313	Fabricacion de maquinaria y equipo para la industria extractiva
+33324	33324	Fabricacion de maquinaria y equipo para las industrias manufactureras, excepto la metalmecanica
+33331	33331	Fabricacion de maquinaria y equipo para el comercio y los servicios
+33341	33341	Fabricacion de equipo de aire acondicionado, calefaccion, y de refrigeracion industrial y comercial
+33351	33351	Fabricacion de maquinaria y equipo para la industria metalmecanica
+33361	33361	Fabricacion de motores de combustion interna, turbinas y transmisiones
+33391	33391	Fabricacion de bombas y sistemas de bombeo
+33392	33392	Fabricacion de maquinaria y equipo para levantar y trasladar
+33399	33399	Fabricacion de otra maquinaria y equipo para la industria en general
+33411	33411	Fabricacion de computadoras y equipo periferico
+33421	33421	Fabricacion de equipo telefonico
+33422	33422	Fabricacion de equipo de transmision y recepcion de señales de radio y television, y equipo de comunicacion inalambrico
+33429	33429	Fabricacion de otros equipos de comunicacion
+33431	33431	Fabricacion de equipo de audio y de video
+33441	33441	Fabricacion de componentes electronicos
+33451	33451	Fabricacion de instrumentos de medicion, control, navegacion, y equipo medico electronico
+33461	33461	Fabricacion y reproduccion de medios magneticos y opticos
+33511	33511	Fabricacion de focos
+33512	33512	Fabricacion de lamparas ornamentales
+33521	33521	Fabricacion de enseres electrodomesticos menores
+33522	33522	Fabricacion de aparatos de linea blanca
+33531	33531	Fabricacion de equipo de generacion y distribucion de energia electrica
+33591	33591	Fabricacion de acumuladores y pilas
+33592	33592	Fabricacion de cables de conduccion electrica
+33593	33593	Fabricacion de enchufes, contactos, fusibles y otros accesorios para instalaciones electricas
+33599	33599	Fabricacion de otros productos electricos
+33611	33611	Fabricacion de automoviles y camionetas
+33612	33612	Fabricacion de camiones y tractocamiones
+33621	33621	Fabricacion de carrocerias y remolques
+33631	33631	Fabricacion de motores y sus partes para vehiculos automotrices
+33632	33632	Fabricacion de equipo electrico y electronico y sus partes para vehiculos automotores
+33633	33633	Fabricacion de partes de sistemas de direccion y de suspension para vehiculos automotrices
+33634	33634	Fabricacion de partes de sistemas de frenos para vehiculos automotrices
+33635	33635	Fabricacion de partes de sistemas de transmision para vehiculos automotores
+33636	33636	Fabricacion de asientos y accesorios interiores para vehiculos automotores
+33637	33637	Fabricacion de piezas metalicas troqueladas para vehiculos automotrices
+33639	33639	Fabricacion de otras partes para vehiculos automotrices
+33641	33641	Fabricacion de equipo aeroespacial
+33651	33651	Fabricacion de equipo ferroviario
+33661	33661	Fabricacion de embarcaciones
+33699	33699	Fabricacion de otro equipo de transporte
+33711	33711	Fabricacion de cocinas integrales y muebles modulares de baño
+33712	33712	Fabricacion de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estanteria
+33721	33721	Fabricacion de muebles de oficina y estanteria
+33791	33791	Fabricacion de colchones
+33792	33792	Fabricacion de persianas y cortineros
+33911	33911	Fabricacion de equipo no electronico y material desechable de uso medico, dental y para laboratorio, y articulos oftalmicos
+33991	33991	Metalisteria y joyeria
+33992	33992	Fabricacion de articulos deportivos
+33993	33993	Fabricacion de juguetes
+33994	33994	Fabricacion de articulos y accesorios para escritura, pintura, dibujo y actividades de oficina
+33995	33995	Fabricacion de anuncios y señalamientos
+33999	33999	Otras industrias manufactureras
+43111	43111	Comercio al por mayor de abarrotes
+43112	43112	Comercio al por mayor de carnes
+43113	43113	Comercio al por mayor de frutas y verduras frescas
+43114	43114	Comercio al por mayor de huevo
+43115	43115	Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos
+43116	43116	Comercio al por mayor de leche y otros productos lacteos
+43117	43117	Comercio al por mayor de embutidos
+43118	43118	Comercio al por mayor de dulces y materias primas para reposteria
+43119	43119	Comercio al por mayor de otros alimentos
+43121	43121	Comercio al por mayor de bebidas y hielo
+43122	43122	Comercio al por mayor de cigarros, puros y tabaco
+43211	43211	Comercio al por mayor de productos textiles, excepto ropa
+43212	43212	Comercio al por mayor de ropa, bisuteria y accesorios de vestir
+43213	43213	Comercio al por mayor de calzado
+43311	43311	Comercio al por mayor de productos farmaceuticos
+43321	43321	Comercio al por mayor de articulos de perfumeria y cosmeticos
+43322	43322	Comercio al por mayor de articulos de joyeria y relojes
+43331	43331	Comercio al por mayor de discos, juguetes y articulos deportivos
+43341	43341	Comercio al por mayor de articulos de papeleria
+43342	43342	Comercio al por mayor de libros
+43343	43343	Comercio al por mayor de revistas y periodicos
+43351	43351	Comercio al por mayor de electrodomesticos menores y aparatos de linea blanca
+43411	43411	Comercio al por mayor de materias primas agropecuarias y forestales
+43421	43421	Comercio al por mayor de materiales para la construccion, excepto de madera y metalicos
+43422	43422	Comercio al por mayor de otros materiales para la construccion y materias primas para otras industrias
+43423	43423	Comercio al por mayor de combustibles de uso industrial
+43424	43424	Comercio al por mayor de articulos desechables
+43431	43431	Comercio al por mayor de materiales de desecho
+43511	43511	Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca
+43521	43521	Comercio al por mayor de maquinaria y equipo para la construccion y la mineria
+43522	43522	Comercio al por mayor de maquinaria y equipo para la industria manufacturera
+43531	43531	Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales
+43541	43541	Comercio al por mayor de mobiliario y equipo de computo y de oficina, y de otra maquinaria y equipo de uso general
+43611	43611	Comercio al por mayor de camiones y de partes y refacciones nuevas para automoviles, camionetas y camiones
+43711	43711	Intermediacion de comercio al por mayor, excepto a traves de internet y de otros medios electronicos
+43721	43721	Intermediacion de comercio al por mayor exclusivamente a traves de internet y otros medios electronicos
+46111	46111	Comercio al por menor en tiendas de abarrotes, ultramarinos y miscelaneas
+46112	46112	Comercio al por menor de carnes
+46113	46113	Comercio al por menor de frutas y verduras frescas
+46114	46114	Comercio al por menor de semillas y granos alimenticios, especias y chiles secos
+46115	46115	Comercio al por menor de leche, otros productos lacteos y embutidos
+46116	46116	Comercio al por menor de dulces y materias primas para reposteria
+46117	46117	Comercio al por menor de paletas de hielo y helados
+46119	46119	Comercio al por menor de otros alimentos
+46121	46121	Comercio al por menor de bebidas y hielo
+46122	46122	Comercio al por menor de cigarros, puros y tabaco
+46211	46211	Comercio al por menor en tiendas de autoservicio
+46221	46221	Comercio al por menor en tiendas departamentales
+46311	46311	Comercio al por menor de productos textiles, excepto ropa
+46321	46321	Comercio al por menor de ropa, bisuteria y accesorios de vestir
+46331	46331	Comercio al por menor de calzado
+46411	46411	Comercio al por menor de productos farmaceuticos y naturistas
+46412	46412	Comercio al por menor de lentes y articulos ortopedicos
+46511	46511	Comercio al por menor de articulos de perfumeria y joyeria
+46521	46521	Comercio al por menor de articulos para el esparcimiento
+46531	46531	Comercio al por menor de articulos de papeleria, libros, revistas y periodicos
+46591	46591	Comercio al por menor de mascotas, regalos, articulos religiosos, desechables, artesanias y otros articulos de uso personal
+46611	46611	Comercio al por menor de muebles para el hogar y otros enseres domesticos
+46621	46621	Comercio al por menor de mobiliario, equipo y accesorios de computo, telefonos y otros aparatos de comunicacion
+46631	46631	Comercio al por menor de articulos para la decoracion de interiores
+46641	46641	Comercio al por menor de articulos usados
+46711	46711	Comercio al por menor de articulos de ferreteria, tlapaleria y vidrios
+46811	46811	Comercio al por menor de automoviles y camionetas
+46821	46821	Comercio al por menor de partes y refacciones para automoviles, camionetas y camiones
+46831	46831	Comercio al por menor de motocicletas y otros vehiculos de motor
+46841	46841	Comercio al por menor de combustibles
+46842	46842	Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehiculos de motor
+46911	46911	Comercio al por menor exclusivamente a traves de internet, y catalogos impresos, television y similares
+48111	48111	Transporte aereo regular
+48121	48121	Transporte aereo no regular
+48211	48211	Transporte por ferrocarril
+48311	48311	Transporte maritimo
+48321	48321	Transporte por aguas interiores
+48411	48411	Autotransporte local de carga general
+48412	48412	Autotransporte foraneo de carga general
+48421	48421	Servicios de mudanzas
+48422	48422	Autotransporte local de carga especializado, excepto mudanzas
+48423	48423	Autotransporte foraneo de carga especializado, excepto mudanzas
+48511	48511	Transporte colectivo urbano y suburbano de pasajeros de ruta fija
+48521	48521	Transporte colectivo foraneo de pasajeros de ruta fija
+48531	48531	Servicio de taxis
+48532	48532	Alquiler de automoviles con chofer
+48541	48541	Transporte escolar y de personal
+48551	48551	Alquiler de autobuses con chofer
+48599	48599	Otro transporte terrestre de pasajeros
+48611	48611	Transporte de petroleo crudo por ductos
+48621	48621	Transporte de gas natural por ductos
+48691	48691	Transporte por ductos de productos refinados del petroleo
+48699	48699	Transporte por ductos de otros productos, excepto de productos refinados del petroleo
+48711	48711	Transporte turistico por tierra
+48721	48721	Transporte turistico por agua
+48799	48799	Otro transporte turistico
+48811	48811	Operaciones aeroportuarias
+48819	48819	Otros servicios relacionados con el transporte aereo
+48821	48821	Servicios relacionados con el transporte por ferrocarril
+48831	48831	Administracion de puertos y muelles
+48832	48832	Servicios de carga y descarga para el transporte por agua
+48833	48833	Servicios para la navegacion por agua
+48839	48839	Otros servicios relacionados con el transporte por agua
+48841	48841	Servicios de grua
+48849	48849	Otros servicios relacionados con el transporte por carretera
+48851	48851	Servicios de intermediacion para el transporte de carga
+48899	48899	Otros servicios relacionados con el transporte
+49111	49111	Servicios postales
+49211	49211	Servicios de mensajeria y paqueteria foranea
+49221	49221	Servicios de mensajeria y paqueteria local
+49311	49311	Almacenes generales de deposito y otros servicios de almacenamiento general sin instalaciones especializadas
+49312	49312	Almacenamiento con refrigeracion
+49313	49313	Almacenamiento de productos agricolas que no requieren refrigeracion
+49319	49319	Otros servicios de almacenamiento con instalaciones especializadas
+51111	51111	Edicion de periodicos y edicion de estas publicaciones integrada con la impresion
+51112	51112	Edicion de revistas y otras publicaciones periodicas y edicion de estas publicaciones integrada con la impresion
+51113	51113	Edicion de libros y edicion de estas publicaciones integrada con la impresion
+51114	51114	Edicion de directorios y de listas de correo, y edicion de estas publicaciones integrada con la impresion
+51119	51119	Edicion de otros materiales y edicion de estas publicaciones integrada con la impresion
+51121	51121	Edicion de software y edicion de software integrada con la reproduccion
+51211	51211	Produccion de peliculas, programas para la television y otros materiales audiovisuales
+51212	51212	Distribucion de peliculas y de otros materiales audiovisuales
+51213	51213	Exhibicion de peliculas y otros materiales audiovisuales
+51219	51219	Servicios de postproduccion y otros servicios para la industria filmica y del video
+51223	51223	Editoras de musica
+51224	51224	Grabacion de discos compactos (CD) y de video digital (DVD) o casetes musicales
+51225	51225	Productoras y distribuidoras discograficas
+51229	51229	Otros servicios de grabacion del sonido
+51511	51511	Transmision de programas de radio
+51512	51512	Transmision de programas de television
+51521	51521	Produccion de programacion de canales para sistemas de television por cable o satelitales
+51731	51731	Operadores de servicios de telecomunicaciones alambricas e inalambricas
+51741	51741	Operadores de servicios de telecomunicaciones via satelite
+51791	51791	Otros servicios de telecomunicaciones
+51821	51821	Procesamiento electronico de informacion, hospedaje y otros servicios relacionados
+51911	51911	Agencias noticiosas
+51912	51912	Bibliotecas y archivos
+51913	51913	Edicion y difusion de contenido exclusivamente a traves de internet y servicios de busqueda en la red
+51919	51919	Otros servicios de suministro de informacion
+52111	52111	Banca central
+52211	52211	Banca multiple
+52221	52221	Banca de desarrollo
+52222	52222	Fondos y fideicomisos financieros
+52231	52231	Uniones de credito
+52232	52232	Cajas de ahorro popular
+52239	52239	Otras instituciones de ahorro y prestamo
+52244	52244	Compañias de autofinanciamiento
+52245	52245	Montepios y casas de empeño
+52246	52246	Sociedades financieras de objeto multiple
+52249	52249	Otras instituciones de intermediacion crediticia y financiera no bursatil
+52251	52251	Servicios relacionados con la intermediacion crediticia no bursatil
+52311	52311	Casas de bolsa
+52312	52312	Casas de cambio y centros cambiarios
+52321	52321	Bolsa de valores
+52391	52391	Asesoria en inversiones
+52399	52399	Otros servicios relacionados con la intermediacion bursatil
+52411	52411	Compañias de seguros
+52412	52412	Fondos de aseguramiento campesino
+52413	52413	Compañias afianzadoras
+52421	52421	Agentes, ajustadores y gestores de seguros y fianzas
+52422	52422	Administracion de fondos para el retiro
+52511	52511	Sociedades de inversion especializadas en fondos para el retiro
+52521	52521	Fondos de inversion
+53111	53111	Alquiler sin intermediacion de bienes raices
+53121	53121	Inmobiliarias y corredores de bienes raices
+53131	53131	Servicios relacionados con los servicios inmobiliarios
+53211	53211	Alquiler de automoviles sin chofer
+53212	53212	Alquiler de camiones de carga, autobuses, minibuses y remolques sin chofer
+53221	53221	Alquiler de aparatos electricos y electronicos para el hogar y personales
+53228	53228	Alquiler de otros articulos para el hogar y personales
+53231	53231	Centros generales de alquiler
+53241	53241	Alquiler de maquinaria y equipo para construccion, mineria, actividades forestales y transporte, excepto terrestre
+53242	53242	Alquiler de equipo de computo y de otras maquinas y mobiliario de oficina
+53249	53249	Alquiler de otra maquinaria y equipo agropecuario, pesquero, para la industria manufacturera, comercial y de servicios
+53311	53311	Servicios de alquiler de marcas registradas, patentes y franquicias
+54111	54111	Bufetes juridicos
+54112	54112	Notarias publicas
+54119	54119	Servicios de apoyo para efectuar tramites legales
+54121	54121	Servicios de contabilidad, auditoria y servicios relacionados
+54131	54131	Servicios de arquitectura
+54132	54132	Servicios de arquitectura de paisaje y urbanismo
+54133	54133	Servicios de ingenieria
+54134	54134	Servicios de dibujo
+54135	54135	Servicios de inspeccion de edificios
+54136	54136	Servicios de levantamiento geofisico
+54137	54137	Servicios de elaboracion de mapas
+54138	54138	Laboratorios de pruebas
+54141	54141	Diseño y decoracion de interiores
+54142	54142	Diseño industrial
+54143	54143	Diseño grafico
+54149	54149	Diseño de modas y otros diseños especializados
+54151	54151	Servicios de diseño de sistemas de computo y servicios relacionados
+54161	54161	Servicios de consultoria en administracion
+54162	54162	Servicios de consultoria en medio ambiente
+54169	54169	Otros servicios de consultoria cientifica y tecnica
+54171	54171	Servicios de investigacion cientifica y desarrollo en ciencias naturales y exactas, ingenieria, y ciencias de la vida
+54172	54172	Servicios de investigacion cientifica y desarrollo en ciencias sociales y humanidades
+54181	54181	Agencias de publicidad
+54182	54182	Agencias de relaciones publicas
+54183	54183	Agencias de compra de medios a peticion del cliente
+54184	54184	Agencias de representacion de medios
+54185	54185	Agencias de anuncios publicitarios
+54186	54186	Agencias de correo directo
+54187	54187	Distribucion de material publicitario
+54189	54189	Servicios de rotulacion y otros servicios de publicidad
+54191	54191	Servicios de investigacion de mercados y encuestas de opinion publica
+54192	54192	Servicios de fotografia y videograbacion
+54193	54193	Servicios de traduccion e interpretacion
+54194	54194	Servicios veterinarios
+54199	54199	Otros servicios profesionales, cientificos y tecnicos
+55111	55111	Corporativos
+56111	56111	Servicios de administracion de negocios
+56121	56121	Servicios combinados de apoyo en instalaciones
+56131	56131	Agencias de colocacion
+56132	56132	Agencias de empleo temporal
+56133	56133	Suministro de personal permanente
+56141	56141	Servicios de preparacion de documentos
+56142	56142	Servicios de casetas telefonicas, recepcion de llamadas y promocion por telefono
+56143	56143	Servicios de fotocopiado, fax, acceso a computadoras y afines
+56144	56144	Agencias de cobranza
+56145	56145	Despachos de investigacion de solvencia financiera
+56149	56149	Otros servicios de apoyo secretarial y similares
+56151	56151	Agencias de viajes
+56152	56152	Organizacion de excursiones y paquetes turisticos para agencias de viajes (Operadores de tours)
+56159	56159	Otros servicios de reservaciones
+56161	56161	Servicios de investigacion y de proteccion y custodia, excepto mediante monitoreo
+56162	56162	Servicios de proteccion y custodia mediante el monitoreo de sistemas de seguridad
+56171	56171	Servicios de control y exterminacion de plagas
+56172	56172	Servicios de limpieza de inmuebles
+56173	56173	Servicios de instalacion y mantenimiento de areas verdes
+56174	56174	Servicios de limpieza de tapiceria, alfombras y muebles
+56179	56179	Otros servicios de limpieza
+56191	56191	Servicios de empacado y etiquetado
+56192	56192	Organizadores de convenciones y ferias comerciales e industriales
+56199	56199	Otros servicios de apoyo a los negocios
+56211	56211	Recoleccion de residuos peligrosos
+56212	56212	Recoleccion de residuos no peligrosos
+56221	56221	Tratamiento y disposicion final de residuos peligrosos
+56222	56222	Tratamiento y disposicion final de residuos no peligrosos
+56291	56291	Servicios de remediacion
+56292	56292	Recuperacion de residuos
+56299	56299	Otros servicios de manejo de residuos
+61111	61111	Escuelas de educacion preescolar
+61112	61112	Escuelas de educacion primaria
+61113	61113	Escuelas de educacion secundaria general
+61114	61114	Escuelas de educacion secundaria tecnica
+61115	61115	Escuelas de educacion media tecnica terminal
+61116	61116	Escuelas de educacion media superior
+61117	61117	Escuelas que combinan diversos niveles de educacion
+61118	61118	Escuelas de educacion para necesidades especiales
+61121	61121	Escuelas de educacion tecnica superior
+61131	61131	Escuelas de educacion superior
+61141	61141	Escuelas comerciales y secretariales
+61142	61142	Escuelas de computacion
+61143	61143	Escuelas para la capacitacion de ejecutivos
+61151	61151	Escuelas de oficios
+61161	61161	Escuelas de arte
+61162	61162	Escuelas de deporte
+61163	61163	Escuelas de idiomas
+61169	61169	Otros servicios educativos
+61171	61171	Servicios de apoyo a la educacion
+62111	62111	Consultorios medicos
+62121	62121	Consultorios dentales
+62131	62131	Consultorios de quiropractica
+62132	62132	Consultorios de optometria
+62133	62133	Consultorios de psicologia
+62134	62134	Consultorios de audiologia y de terapia ocupacional, fisica y del lenguaje
+62139	62139	Otros consultorios para el cuidado de la salud
+62141	62141	Centros de planificacion familiar
+62142	62142	Centros de atencion medica externa para enfermos mentales y adictos
+62149	62149	Otros centros para la atencion de pacientes que no requieren hospitalizacion
+62151	62151	Laboratorios medicos y de diagnostico
+62161	62161	Servicios de enfermeria a domicilio
+62191	62191	Servicios de ambulancias
+62199	62199	Servicios de bancos de organos, bancos de sangre y otros servicios auxiliares al tratamiento medico
+62211	62211	Hospitales generales
+62221	62221	Hospitales psiquiatricos y para el tratamiento por adiccion
+62231	62231	Hospitales de otras especialidades medicas
+62311	62311	Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitacion, incurables y terminales
+62321	62321	Residencias para el cuidado de personas con problemas de retardo mental
+62322	62322	Residencias para el cuidado de personas con problemas de trastorno mental y adiccion
+62331	62331	Asilos y otras residencias para el cuidado de ancianos
+62399	62399	Orfanatos y otras residencias de asistencia social
+62411	62411	Servicios de orientacion y trabajo social para la niñez y la juventud
+62412	62412	Centros de atencion y cuidado diurno de ancianos y personas con discapacidad
+62419	62419	Otros servicios de orientacion y trabajo social
+62421	62421	Servicios de alimentacion comunitarios
+62422	62422	Refugios temporales comunitarios
+62423	62423	Servicios de emergencia comunitarios
+62431	62431	Servicios de capacitacion para el trabajo para personas desempleadas, subempleadas o con discapacidad
+62441	62441	Guarderias
+71111	71111	Compañias de teatro
+71112	71112	Compañias de danza
+71113	71113	Cantantes y grupos musicales
+71119	71119	Otras compañias y grupos de espectaculos artisticos
+71121	71121	Deportistas y equipos deportivos profesionales
+71131	71131	Promotores de espectaculos artisticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos
+71132	71132	Promotores de espectaculos artisticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos
+71141	71141	Agentes y representantes de artistas, deportistas y similares
+71151	71151	Artistas, escritores y tecnicos independientes
+71211	71211	Museos
+71212	71212	Sitios historicos
+71213	71213	Jardines botanicos y zoologicos
+71219	71219	Grutas, parques naturales y otros sitios del patrimonio cultural de la nacion
+71311	71311	Parques con instalaciones recreativas
+71312	71312	Casas de juegos electronicos
+71321	71321	Casinos
+71329	71329	Loterias y otros juegos de azar
+71391	71391	Campos de golf
+71392	71392	Pistas para esquiar
+71393	71393	Marinas turisticas
+71394	71394	Clubes deportivos y centros de acondicionamiento fisico
+71395	71395	Boliches
+71399	71399	Otros servicios recreativos
+72111	72111	Hoteles y moteles, excepto hoteles con casino
+72112	72112	Hoteles con casino
+72119	72119	Cabañas, villas y similares
+72121	72121	Campamentos y albergues recreativos
+72131	72131	Pensiones y casas de huespedes, y departamentos y casas amueblados con servicios de hoteleria
+72231	72231	Servicios de comedor para empresas e instituciones
+72232	72232	Servicios de preparacion de alimentos para ocasiones especiales
+72233	72233	Servicios de preparacion de alimentos en unidades moviles
+72241	72241	Centros nocturnos, bares, cantinas y similares
+72251	72251	Servicios de preparacion de alimentos y bebidas alcoholicas y no alcoholicas
+81111	81111	Reparacion mecanica y electrica de automoviles y camiones
+81112	81112	Hojalateria, tapiceria y otras reparaciones a la carroceria de automoviles y camiones
+81119	81119	Otros servicios de reparacion y mantenimiento de automoviles y camiones
+81121	81121	Reparacion y mantenimiento de equipo electronico y de equipo de precision
+81131	81131	Reparacion y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios
+81141	81141	Reparacion y mantenimiento de aparatos electricos para el hogar y personales
+81142	81142	Reparacion de tapiceria de muebles para el hogar
+81143	81143	Reparacion de calzado y otros articulos de piel y cuero
+81149	81149	Reparacion y mantenimiento de otros articulos para el hogar y personales
+81211	81211	Salones y clinicas de belleza y peluquerias
+81212	81212	Baños publicos
+81213	81213	Sanitarios publicos y bolerias
+81221	81221	Lavanderias y tintorerias
+81231	81231	Servicios funerarios
+81232	81232	Administracion de cementerios
+81241	81241	Estacionamientos y pensiones para vehiculos automotores
+81291	81291	Servicios de revelado e impresion de fotografias
+81299	81299	Otros servicios personales
+81311	81311	Asociaciones, organizaciones y camaras de productores, comerciantes y prestadores de servicios
+81312	81312	Asociaciones y organizaciones laborales y sindicales
+81313	81313	Asociaciones y organizaciones de profesionistas
+81314	81314	Asociaciones regulatorias de actividades recreativas
+81321	81321	Asociaciones y organizaciones religiosas
+81322	81322	Asociaciones y organizaciones politicas
+81323	81323	Asociaciones y organizaciones civiles
+81411	81411	Hogares con empleados domesticos
+93111	93111	organos legislativos
+93121	93121	Administracion publica en general
+93131	93131	Regulacion y fomento del desarrollo economico
+93141	93141	Imparticion de justicia y mantenimiento de la seguridad y el orden publico
+93151	93151	Regulacion y fomento de actividades para mejorar y preservar el medio ambiente
+93161	93161	Actividades administrativas de instituciones de bienestar social
+93171	93171	Relaciones exteriores
+93181	93181	Actividades de seguridad nacional
+93211	93211	Organismos internacionales
+93212	93212	Sedes diplomaticas y otras unidades extraterritoriales

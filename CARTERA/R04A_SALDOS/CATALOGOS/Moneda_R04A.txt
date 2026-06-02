@@ -1,0 +1,126 @@
+Catalogo: Moneda_R04A
+Clave Institución	Clave Registro	Descripción		
+0	MXN	Peso
+1	USD	Dolar Americano
+10	CAD	Dolar Canadiense
+100	SEK	Corona
+101	JOD	Dinar Jordano
+102	LRD	Dinar Libia
+103	LTL	Litas
+104	NGN	Naira
+105	PKR	Rupia Paquistan
+106	SGD	Dolar Singapur
+107	SYP	Libra Siria
+108	IDR	Rupia Sri-Lanka
+109	THB	Baht
+11	ARS	Peso Argentino
+110	SOS	Chelin
+111	TTD	Dolar Rep De Trinidad/Tobago
+112	UAH	Hryvna
+113	VND	Dong
+114	OMR	Rial
+115	RSD	N.Dinar
+116	ZRN	Zaire
+117	BZD	Dolar (Belice)
+2	GBP	Libra
+3	FRF	Franco Frances
+4	CHF	Franco Suizo
+12	SEK	Corona Sueca
+13	AWG	Florin
+14	CUP	Peso Cubano
+15	CVE	Escudo
+16	PLN	Zloty
+17	HKD	Dolar Hong Kong
+18	GTQ	Quetzal
+19	BRL	Real
+21	SEK	Corona Checa
+22	EGP	Libra Egipcia
+24	DKK	Corona Danesa
+25	VEF	Bolivar
+26	COP	Peso Colombiano
+27	DEM	Marco Aleman
+28	SOS	Chelin
+29	SVC	Colon Salvadoreño
+30	CRC	Colon Costarricense
+32	NOK	Corona Noruega
+33	NIO	Cordoba
+34	PAB	Balboa
+35	PEN	Nuevo Sol
+36	CLP	Peso Chileno
+37	DOP	Peso Dominicano
+38	XSU	Sucre
+39	HNL	Lempira
+40	RUB	Rublo (Ruso)
+41	SAR	Riyal
+42	ILS	Shekel
+118	SEK	Corona
+119	GHS	Cedi
+120	GYD	Dolar De Guyana
+121	KPW	Won Norcoreano
+122	AWG	Florin
+124	EUR	Euro
+199	ECU	Ecu
+200	UDI	Udis
+201	DEG	Derechos Especiales De Giro (Deg)
+202	UDI	Udis Gubernamentales
+203	UFC	Ufc
+204	UMA	Uma
+205	VSM	Vsm
+5	EUR	Peseta (Euro)
+7	TRY	Lira
+8	EUR	Franco Belga (Euro)
+9	JPY	Yen
+43	USD	Dolar Portorriqueño
+44	MAD	Dirham Marroquin
+46	PYG	Guarani
+47	BZD	Dolar Belice
+48	UYU	Peso Uruguayo
+49	JMD	Dolar Jamaiquino
+50	BMD	Libra Bermudas
+51	INR	Rupia
+52	RSD	Nvo. Dinar Yugoslavo
+53	AUD	Dolar Australiano
+54	FIM	Marco Finlandes
+55	BSD	Dolar Bahamas
+56	KWD	Dinar-Kuwait
+57	KWD	Lira Turca
+58	XAF	Franco Camerun
+59	GRD	Dracma
+60	ZAR	Rands
+61	FJD	Dolar Fijiano
+62	LBP	Libra Libanesa
+63	EUR	Franco Luxemburgo (Euro)
+64	INR	Rupia Indu
+65	SUR	Guinea Holandesa
+66	CFA	Franco Africano
+67	KRW	Won Surcoreano
+68	CFP	Franco Tahitiano
+69	CNY	Renminbi/Yuan
+70	MZE	Escudo Mozambique
+71	MTL	Lira Maltesa
+72	LYD	Dinares Libicos
+73	TWD	Dolar Taiwan Nuevo
+75	MYR	Ringgit
+76	SAR	Riyal De Arabia Saudita
+77	RON	Leu Rumano
+78	KHR	Real De Camboya
+79	PHP	Peso Filipino
+80	NZD	Dolar Nva Zelandia
+81	ATS	Chelin
+82	AGO	Escudo Angola
+83	HUF	Forint Hungria
+84		Punt
+85	GBP	Libra Escocia
+86	BHD	Dinares De Baharain
+87	AED	Dirhams Arabes
+89	HTG	Gourde
+90	ALL	Lek
+91	AWG	Florin
+92	RSD	Dinar
+93	BSD	Dolar Bahamas
+94	BBD	Dolar Barbados
+95	BOB	Peso Boliviano
+96	BGN	Lev
+97	EEK	Corona Estonia
+98	EYB	Birr
+99	RSD	Dinar
